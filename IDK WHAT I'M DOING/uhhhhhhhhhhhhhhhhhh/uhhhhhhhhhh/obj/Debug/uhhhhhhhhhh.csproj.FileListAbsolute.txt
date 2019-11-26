@@ -1,0 +1,6 @@
+C:\Users\Utilisateur\Desktop\School\Intro prog\IDK WHAT I'M DOING\uhhhhhhhhhhhhhhhhhh\uhhhhhhhhhh\bin\Debug\uhhhhhhhhhh.exe.config
+C:\Users\Utilisateur\Desktop\School\Intro prog\IDK WHAT I'M DOING\uhhhhhhhhhhhhhhhhhh\uhhhhhhhhhh\bin\Debug\uhhhhhhhhhh.exe
+C:\Users\Utilisateur\Desktop\School\Intro prog\IDK WHAT I'M DOING\uhhhhhhhhhhhhhhhhhh\uhhhhhhhhhh\bin\Debug\uhhhhhhhhhh.pdb
+C:\Users\Utilisateur\Desktop\School\Intro prog\IDK WHAT I'M DOING\uhhhhhhhhhhhhhhhhhh\uhhhhhhhhhh\obj\Debug\uhhhhhhhhhh.csprojAssemblyReference.cache
+C:\Users\Utilisateur\Desktop\School\Intro prog\IDK WHAT I'M DOING\uhhhhhhhhhhhhhhhhhh\uhhhhhhhhhh\obj\Debug\uhhhhhhhhhh.exe
+C:\Users\Utilisateur\Desktop\School\Intro prog\IDK WHAT I'M DOING\uhhhhhhhhhhhhhhhhhh\uhhhhhhhhhh\obj\Debug\uhhhhhhhhhh.pdb
